@@ -1,0 +1,128 @@
+{"404 Files":"A_Administrator/adm-emails-collect-disable.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/adm-emails-collect-enable.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/adm-emails-language-preference.htm","Comments":"in development"}
+{"404 Files":"A_Administrator/adm-ilt-learnerexample-popup.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/adm_assignment_bulk_add.htm","Comments":"in development"}
+{"404 Files":"A_Administrator/adm_content_providers_udemy-old.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/adm_external_learing.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/admn_cc_areas_create.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/admn_cc_library.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/admn_get_started.htm","Comments":"Part of Training DB - keep"}
+{"404 Files":"A_Administrator/admn_landing.htm","Comments":"no - DNO"}
+{"404 Files":"A_Administrator/admn_rpt_AG_column_descriptions.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/admn_trng_start.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/percipio_sys_reqs_for_digital_badges_only.htm","Comments":"in development"}
+{"404 Files":"A_Administrator/resources.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/tipsnew-engagement.htm","Comments":"deleted"}
+{"404 Files":"A_Administrator/z_IE_support_end.htm"}
+{"404 Files":"B_Learner/MSTeamApp/mstapp_help.htm","Comments":"deleted from MadCap"}
+{"404 Files":"B_Learner/Mobile/mbl_access_content_qsg.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/Mobile/mbl_additional_features_qsg.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/Mobile/mbl_home_screen.htm","Comments":"in development"}
+{"404 Files":"B_Learner/Player_Compliance/52927.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52928.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52929.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52932.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52933.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52938.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52965.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52966.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/52967.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_about.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_ask_mentor.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_audio_description.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_completion_status.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_course_tests.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_crs_menu_overview.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_general_settings.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_it_skills_shortcuts.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_it_tests_shortcuts.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_keyboard_options.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_overview.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_progress_tests_tab_overview.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_resources.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_screen_reader_options.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_table_contents.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_take_course.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_text_alternatives.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_toc_overview.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/Player_Compliance/plyr_transcripts.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"B_Learner/lrnr_badges_wallet.htm","Comments":"keep  "}
+{"404 Files":"B_Learner/lrnr_compliance_certitude_answer_types.htm","Comments":"deleted from MadCap"}
+{"404 Files":"B_Learner/lrnr_compliance_certitudes.htm","Comments":"deleted from MadCap"}
+{"404 Files":"B_Learner/lrnr_elsa_app_enable_IE.htm","Comments":"deleted from MadCap"}
+{"404 Files":"B_Learner/lrnr_labs_with_nexttech.htm","Comments":"deleted from MadCap"}
+{"404 Files":"B_Learner/lrnr_qsg_add_to_playlist.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_home_page.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_search.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_sign_in.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_skills.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_sldp_intro.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_sldp_percipio_access.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_sldp_percipio_recommended_path.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_sldp_skillport_access.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_sldp_sp_recommended_path.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_qsg_toc.htm","Comments":"Pages for QSGs - keep"}
+{"404 Files":"B_Learner/lrnr_schedual_learning.htm","Comments":"deleted from MadCap"}
+{"404 Files":"C_Release_Notes/2022/dec22022_nf.htm","Comments":"deleted from MadCap"}
+{"404 Files":"C_Release_Notes/rn_template_nf.htm","Comments":"keep as template file"}
+{"404 Files":"Coaching/sc_faq_ai.htm","Comments":"https://documentation.skillsoft.com/en_us/coaching/Content/Coaching/sc_faq_ai.htm"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-configure-email-notifications.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-configure-reports.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-create-attributes-audiences.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-create-learning-assignments.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-getting-started.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-manage-content.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-review-revise-requirements.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-review-system-requirements.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Admin_Training/cmp-trng-setup-site.htm","Comments":"Compliance training - different URL"}
+{"404 Files":"Compliance/Home.htm","Comments":"deleted"}
+{"404 Files":"Compliance/acd_address_mngmnt.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_appendices_chapter_heading.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_appendix_3_example_emails.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_course_info.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_custom_admin_email_train_reminder.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_custom_supervisor_email.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_custom_user_email_train_reminder.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_custom_user_email_training.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_defalut_values.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_demographics.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_email_configurations.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_example_emails.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_questionnaires_enter_policy.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_reporting_overview.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_setup.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_supervisor_user_status_report_contents.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_training_admin_report_contents.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_types_of_email_chapter_heading.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_user_overdue_notice.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/acd_user_status.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-alert-driving-content.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-assignment-defaults.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-assignments-videos.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-dashboard-chart-drilldown.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-dashboard-overview.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-email-notifications-about-send-times.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-email-notifications-videos.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-exemptions-equivalencies-about.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-learning-plan-assignments-view-current.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-reports-TEMPLATE.htm","Comments":"deleted"}
+{"404 Files":"Compliance/cmp-reports-videos.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/cmp-trng-video-test-page.htm","Comments":"Move to DNO-Archived files "}
+{"404 Files":"Compliance/content/acd_questionnaires_intro.htm","Comments":"deleted"}
+{"404 Files":"Compliance/content/home.htm","Comments":"deleted"}
+{"404 Files":"Integration/LMS-Integration/Degreed/degreed_white_paper.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Degreed/int_degreed_implementation.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Moodle/int-config-moodle-mobile.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-content-config.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-implementation.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-initial-meeting.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-progress-tracking.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-reqandrec.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-resources.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/int-saba-ig-samlsso.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/Saba/saba_white_paper.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/SuccessFactors/int_sf_bulk_imports.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/SuccessFactors/int_sf_delivery.htm","Comments":"deleted"}
+{"404 Files":"Integration/LMS-Integration/SuccessFactors/int_sf_manual_config.htm","Comments":"DNO"}
+{"404 Files":"Integration/LMS-Integration/SuccessFactors/successfactors_white_paper.htm","Comments":"DNO"}

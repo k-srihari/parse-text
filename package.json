@@ -1,0 +1,20 @@
+{
+  "name": "parse-text",
+  "version": "1.0.0",
+  "description": "workspace to test text parsing libraries for different file formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "doc",
+    "text",
+    "parse"
+  ],
+  "author": "k-srihari",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
