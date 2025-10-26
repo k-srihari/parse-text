@@ -1,7 +1,6 @@
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
-import csvParser from 'csv-parser'
 
 const currFilePath = fileURLToPath(import.meta.url)
 const currDir = path.dirname(currFilePath)
@@ -12,17 +11,16 @@ const outputFilePath = path.resolve(currDir, '..', 'output/csv', `${path.basenam
 
 async function parseTextFromCSV(csvPath) {
   let parsedText
-  const parser = csvParser() // no customization needed as of now
-  const readStream = fs.createReadStream(csvPath).pipe(parser)
-  const csvRows = []
+  const readStream = fs.createReadStream(csvPath)
+  const chunks = []
   readStream.on('data', (data) => {
-    csvRows.push(JSON.stringify(data))
+    chunks.push(data)
   })
   await new Promise((resolve, reject) => {
     readStream.on('end', resolve)
     readStream.on('error', reject)
   })
-  parsedText = csvRows.join('\n') // join each row in the csv with a '\n' separator
+  parsedText = chunks.join('') // join chunks from the stream
   return parsedText
 }
 

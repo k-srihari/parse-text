@@ -58,15 +58,38 @@ export async function uploadFileToS3(s3Key, uploadFilePath) {
 }
 
 export function trackMemoryAndCPU() {
-    const used = process.memoryUsage();
-    const cpuUsage = process.cpuUsage();
-    
-    console.log('\nMemory usage:');
-    for (let key in used) {
-        console.log(`${key}: ${Math.round(used[key] / 1024 / 1024 * 100) / 100} MB`);
-    }
-    
-    console.log('CPU usage:');
-    console.log(`user: ${cpuUsage.user / 1000000}s`);
-    console.log(`system: ${cpuUsage.system / 1000000}s`);
+  const used = process.memoryUsage();
+  const cpuUsage = process.cpuUsage();
+
+  console.log('\nMemory usage:');
+  for (let key in used) {
+    console.log(`${key}: ${Math.round(used[key] / 1024 / 1024 * 100) / 100} MB`);
+  }
+  console.log(`CPU user usage: ${cpuUsage.user / 1000000}s\n`)
+}
+
+export class MemoryAndTimeTracker {
+  #logger
+  #logPrefix
+  #startTime
+  #endTime
+  #startMemory
+  #endMemory
+
+  constructor(logger, logPrefix) {
+    this.#logger = (logger && typeof logger.info === 'function') ? logger : console
+    this.#logPrefix = logPrefix
+    this.#startTime = Date.now()
+    this.#startMemory = process.memoryUsage()
+  }
+  logUsage(prefix) {
+    this.#endTime = Date.now()
+    this.#endMemory = process.memoryUsage()
+    this.timeDiff = this.#endTime - this.#startTime
+    this.rssDiff = ((this.#endMemory.rss - this.#startMemory.rss) / 1024 / 1024).toFixed(2)
+    this.heapUsedDiff = ((this.#endMemory.heapUsed - this.#startMemory.heapUsed) / 1024 / 1024).toFixed(2)
+    this.#logger.info(`[${this.#logPrefix}] Memory & Time Stats for ${prefix}:: time taken: ${this.timeDiff} ms ; rss change: ${this.rssDiff} ; heap used change: ${this.heapUsedDiff}`)
+    this.#startTime = Date.now()
+    this.#startMemory = process.memoryUsage()
+  }
 }

@@ -26,6 +26,10 @@ function streamFromInputToOutput(inputPath, outputPath, callback) {
     readStream.destroy()
     callback(err)
   })
+  writeStream.on('finish', () => {
+    console.log('write stream finished')
+    callback(null, 'success')
+  })
 
   readStream.on('error', (err) => {
     console.error('read stream errored!', err.message)
@@ -33,12 +37,7 @@ function streamFromInputToOutput(inputPath, outputPath, callback) {
     callback(err)
   })
 
-  readStream
-    .pipe(writeStream)
-    .on('finish', () => {
-      console.log('write stream finished')
-      callback(null, 'success')
-    })
+  readStream.pipe(writeStream)
 }
 
 async function copy() {
